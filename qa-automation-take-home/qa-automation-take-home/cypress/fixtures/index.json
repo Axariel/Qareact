@@ -1,0 +1,9 @@
+{
+  "contenedor": ".app-container",
+  "textbox": "#text-input",
+  "button": "button",
+  "notes": ".note-container",
+  "row1": "ul > :nth-child(1)",
+  "buttonDelete": "ul > :nth-child(1) > button"
+  
+}
